@@ -21,6 +21,8 @@ import HelloWorld from './components/HelloWorld.vue'
   <!--
   <RouterView />
   -->
+  <!-- https://giphy.com/stickers/jason-clarke-meme-howard-the-alien-metal-dancing-1oE3Ee4299mmXN8OYb -->
+  <img src="@/assets/alien.gif" alt="Alien 👽">
 </template>
 
 <style scoped>
