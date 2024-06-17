@@ -9,7 +9,7 @@ import HelloWorld from './components/HelloWorld.vue'
     <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
     -->
     <div class="wrapper">
-      <HelloWorld msg="Pracuje se na tom" />
+      <HelloWorld msg="Pracuje se na tom..." />
       <!--
       <nav>
         <RouterLink to="/">Home</RouterLink>
@@ -21,8 +21,6 @@ import HelloWorld from './components/HelloWorld.vue'
   <!--
   <RouterView />
   -->
-  <!-- https://giphy.com/stickers/jason-clarke-meme-howard-the-alien-metal-dancing-1oE3Ee4299mmXN8OYb -->
-  <img src="@/assets/alien.gif" alt="Alien 👽">
 </template>
 
 <style scoped>
